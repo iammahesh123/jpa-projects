@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jpa-select-cause" />
+        <module name="jpa-groupby-demo" />
+        <module name="table-strategy-demo" />
+        <module name="table-per-class-strategy-demo" />
+        <module name="jpa-Cascade-Persist-demo" />
+        <module name="hibernate-entity-manager-demo" />
+        <module name="demo" />
+        <module name="entity-demo" />
+        <module name="jpa-crud" />
+        <module name="jpa-having-clause-demo" />
+        <module name="jpa-object-relation-mapping-demo" />
+        <module name="jpa-criteria-api-demo" />
+        <module name="jpa-one-to-one-mapping" />
+        <module name="jpa-order-by-clause-demo" />
+        <module name="jpa-many-to-one-mapping-demo" />
+        <module name="jpa-query-method-demo" />
+        <module name="jpa-where-clause-demo" />
+        <module name="jpa-joined-strategy-demo" />
+        <module name="jpa-one-to-one-mapping-demo" />
+        <module name="jpa-demo" />
+        <module name="jpa-one-to-many-mapping-demo" />
+        <module name="jpa-collection-mapping-demo" />
+        <module name="jpa-many-to-many-mapping-demo" />
+        <module name="create-entity-demo" />
+        <module name="query-creation-demo" />
+        <module name="advanced-mapping-demo" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

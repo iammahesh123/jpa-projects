@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-crud/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/entity-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-groupby-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-select-cause/pom.xml" />
+        <option value="$PROJECT_DIR$/create-entity-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/query-creation-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/table-strategy-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/advanced-mapping-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-criteria-api-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-query-method-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-where-clause-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-having-clause-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-one-to-one-mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-Cascade-Persist-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-joined-strategy-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-order-by-clause-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-collection-mapping-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-one-to-one-mapping-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-many-to-one-mapping-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-one-to-many-mapping-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/hibernate-entity-manager-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-many-to-many-mapping-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/table-per-class-strategy-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jpa-object-relation-mapping-demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
